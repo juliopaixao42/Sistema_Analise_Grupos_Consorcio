@@ -1,5 +1,13 @@
 # Sistema de Análise de Grupos de Consórcio 🏦💼
 
+![Dashboard - Automóvel](images/Screenshot_Dashboard_Consorcio_Automóvel.png)
+
+![Dashboard - Motocicleta](images/Screenshot_Dashboard_Consorcio_Motocicleta.png)
+
+![Dashboard - Imóvel](images/Screenshot_Dashboard_Consorcio_Imóvel.png)
+
+## 🔗 Acesse o Dashboard Interativo
+
 [![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard%20Interativo-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiOGFhOGNhMjUtOTY3MC00ODMyLTkzMzUtZGFiYzViYWIwMjAxIiwidCI6IjliMDFhNDdjLWQ1MjktNDBkYS05ZTI1LTYwMDNmYzgyOTc2MyN9)
 
 **👆 Clique no badge acima para visualizar o dashboard completo e interativo!**
@@ -71,7 +79,9 @@ Criar uma ferramenta comercial moderna e interativa que substitui tabelas estát
 │   ├── grupos_consorcio.csv (192 grupos)
 │   └── lances_consorcio.csv (12.816 lances)
 ├── 📂 images/
-│   └── Screenshot_Dashboard_Consorcio.png
+│   ├── Screenshot_Dashboard_Consorcio_Automóvel.png
+│   ├── Screenshot_Dashboard_Consorcio_Imóvel.png
+│   └── Screenshot_Dashboard_Consorcio_Motocicleta.png
 └── 📊 Dashboard_Consorcio_Power_BI.pbix
 ```
 
