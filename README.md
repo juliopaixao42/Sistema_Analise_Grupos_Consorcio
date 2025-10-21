@@ -2,10 +2,6 @@
 
 ![Dashboard - Automóvel](images/Screenshot_Dashboard_Consorcio_Automóvel.png)
 
-![Dashboard - Motocicleta](images/Screenshot_Dashboard_Consorcio_Motocicleta.png)
-
-![Dashboard - Imóvel](images/Screenshot_Dashboard_Consorcio_Imóvel.png)
-
 ## 🔗 Acesse o Dashboard Interativo
 
 [![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard%20Interativo-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiOGFhOGNhMjUtOTY3MC00ODMyLTkzMzUtZGFiYzViYWIwMjAxIiwidCI6IjliMDFhNDdjLWQ1MjktNDBkYS05ZTI1LTYwMDNmYzgyOTc2MyN9)
